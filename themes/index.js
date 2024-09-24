@@ -462,6 +462,11 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  steel_night : {
+    title_color: "ffffff",
+    text_color: "445569",
+    icon_color: "515267",
+    bg_color:"26272d"
 };
 
 export default themes;
